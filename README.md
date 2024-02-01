@@ -16,7 +16,7 @@ To get started, ensure you have the following:
 
    1. Clone this repository to your local machine.
 
-     - git clone https://github.com/shakil1509/Real-Time-Chat-Application
+     - git clone https://github.com/shakil1509/Chat-Application
 
    2. Navigate to the project directory.
       
